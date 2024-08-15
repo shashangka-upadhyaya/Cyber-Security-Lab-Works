@@ -16,3 +16,8 @@ To demonstrate the susceptibility of unsecured web sessions to Man-in-the-Middle
 Tools Used:
 Ettercap: For intercepting and altering network traffic.
 Custom HTML/JavaScript: For crafting a fake login page and displaying the "You are hacked" message.
+
+# Advanced Network Penetration Using Meterpreter Port Forwarding
+Objective: Leverage Meterpreter's port forwarding feature to access and analyze services on a secured internal network, identifying vulnerabilities and enhancing intrusion detection mechanisms.
+Outcome: Successfully demonstrated the ability to remotely access restricted network services, providing critical insights for strengthening network security measures.
+
