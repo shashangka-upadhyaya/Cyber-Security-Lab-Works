@@ -8,5 +8,6 @@ Objective: Conducted a password cracking exercise to assess the strength of user
 Tools Used: John the Ripper, Hashcat.
 Key Outcomes: Successfully cracked weak passwords by leveraging dictionary and brute-force attacks. Provided insights into best practices for creating strong, secure passwords.
 
+# Man-in-the-Middle Attack Simulation with Ettercap
 
 
