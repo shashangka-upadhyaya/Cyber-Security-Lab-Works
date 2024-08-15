@@ -2,6 +2,8 @@
 
 Performed network scanning to identify open ports and services on a target network.
 Analyzed the results to determine potential vulnerabilities.
+[Google](https://www.google.com)
+
 
 # Password Cracking with John the Ripper
 Objective: Conducted a password cracking exercise to assess the strength of user passwords.
